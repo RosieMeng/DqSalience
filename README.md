@@ -53,7 +53,6 @@ This project was developed collaboratively by:
 
 **Mario Jakimoski · Axel Felten · Hao Meng · Jinane Harchal**
 
-Original collaborative repository: [mjakimo/DqSalience](https://github.com/mjakimo/DqSalience)
 
 ## License
 
